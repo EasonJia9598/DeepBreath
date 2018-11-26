@@ -2,7 +2,7 @@
 Final version
 
 I think the /css folder is the same one in /application/css
-/webM is for welcome page, 
+/webM which is for welcome page, 
 
 change deep breath card to 
 
